@@ -1,3 +1,0 @@
-config = {
-    "GITHUB_TOKEN": "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"
-}
